@@ -11,9 +11,8 @@
   Run 'npm i' in the console to install all dependencies!
   ## Usage
   Run 'node server.js' to create the port for a local version of the application, or use the provided link to my version which has been deployed using Heroku!
-  ### Here is the link to the deployed application: https://pacific-falls-82363.herokuapp.com/
-
-    ## Questions
+  Here is the link to the deployed application: https://pacific-falls-82363.herokuapp.com/
+  ## Questions
   How to reach me for additional questions:
   Who I am: Robert Iatan, Full Stack Web Developer. 
   GitHub: https://github.com/robertiatan  
