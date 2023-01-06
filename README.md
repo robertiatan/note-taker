@@ -12,7 +12,8 @@
   ## Usage
   Run 'node server.js' to create the port for a local version of the application, or use the provided link to my version which has been deployed using Heroku!
   ### Here is the link to the deployed application: https://pacific-falls-82363.herokuapp.com/
-    ### Here is a screenshot of the application:
+
+Here are a few screenshots of the application:
     ![Screenshot 1](public/assets/images/Screenshot%202023-01-06%20025723.png)
     ![Screenshot 2](public/assets/images/Screenshot%202023-01-06%20025754.png)
     ![Screenshot 3](public/assets/images/Screenshot%202023-01-06%20025837.png)
