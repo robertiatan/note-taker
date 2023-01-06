@@ -13,16 +13,13 @@
   Run 'node server.js' to create the port for a local version of the application, or use the provided link to my version which has been deployed using Heroku!
   ### Here is the link to the deployed application: https://pacific-falls-82363.herokuapp.com/
 
-    Here are a few screenshots of the application:
+    ## Questions
+  How to reach me for additional questions:
+  Who I am: Robert Iatan, Full Stack Web Developer. 
+  GitHub: https://github.com/robertiatan  
+  Email: robertiatan@gmail.com
+
+Here are a few screenshots of the application:
     ![Screenshot 1](public/assets/images/Screenshot%202023-01-06%20025723.png)
     ![Screenshot 2](public/assets/images/Screenshot%202023-01-06%20025754.png)
     ![Screenshot 3](public/assets/images/Screenshot%202023-01-06%20025837.png)
-
-    ## Questions
-
-  How to reach me for additional questions:
-
-  Who I am: Robert Iatan, Full Stack Web Developer.
-  
-  GitHub: https://github.com/robertiatan  
-  Email: robertiatan@gmail.com
