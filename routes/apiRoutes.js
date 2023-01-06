@@ -3,7 +3,7 @@ const router = require("express").Router();
 const saveData = require("../db/saveData");
 
 // GET route for /api/notes
-router.get("/notes", (req, res) => {
+router.get("/api/notes", (req, res) => {
   saveData
     .getNotes()
     .then((notes) => res.json(notes))
@@ -11,7 +11,7 @@ router.get("/notes", (req, res) => {
 });
 
 // POST route for /api/notes
-router.post("/notes", (req, res) => {
+router.post("/api/notes", (req, res) => {
   saveData
     .addNotes(req.body)
     .then((note) => res.json(note))
@@ -19,7 +19,7 @@ router.post("/notes", (req, res) => {
 });
 
 // DELETE route for /api/notes/:id
-router.delete("/notes/:id", (req, res) => {
+router.delete("/api/notes/:id", (req, res) => {
   saveData
     .removeNotes(req.params.id)
     .then(() => res.json({ ok: true }))
